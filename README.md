@@ -9,14 +9,14 @@
 
 <p align="center"> 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=00Utkarsh00&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=Krushnarath23&style=for-the-badge">
 </a>
 </p>
 
 	
 ## <picture><img src = "https://github.com/00Utkarsh00/00Utkarsh00/blob/main/snake/IMG_3457.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/00Utkarsh00/00Utkarsh00/blob/main/snake/IMG_3458.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/Krushnarath23/Krushnarath23/blob/main/img/wp1827505-basketball-legends-wallpapers.jpg" width = 250px></picture>
 
 <br><br>
 
