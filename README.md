@@ -14,7 +14,7 @@
 </p>
 
 	
-## <picture><img src = "https://github.com/00Utkarsh00/00Utkarsh00/blob/main/snake/IMG_3457.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/Krushnarath23/Krushnarath23/blob/main/snake/IMG_3457.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="(https://www.google.com/url?sa=i&url=https%3A%2F%2Fitstaffing.com%2Fcrucial-role-software-developers%2F&psig=AOvVaw2EBtopdmCWOY9b6jTuqHUQ&ust=1749805333403000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJjG0f7C640DFQAAAAAdAAAAABAE)" width = 250px></picture>
 
