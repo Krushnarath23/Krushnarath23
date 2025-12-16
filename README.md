@@ -173,8 +173,6 @@
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 
 ----
-	
-[!00Utkarsh00's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=00Utkarsh00&theme=github)](https://github.com/00Utkarsh00/github-readme-activity-graph)
 
  
 </details>
