@@ -175,76 +175,6 @@ mindset:
 
 <br/>
 
-## `featured_projects`
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔴 AI Resume Analyzer
-> *Intelligent resume parsing & feedback powered by LLMs*
-
-Analyzes resumes against job descriptions, scores relevance, and generates targeted improvement suggestions using large language models.
-
-![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=CC0000)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d0d0d?style=flat-square&logo=fastapi&logoColor=CC0000)
-![LLMs](https://img.shields.io/badge/LLMs-0d0d0d?style=flat-square&logo=openai&logoColor=CC0000)
-![NLP](https://img.shields.io/badge/NLP-0d0d0d?style=flat-square&logo=python&logoColor=CC0000)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔴 Face Shape Detection
-> *Real-time CV pipeline for facial geometry classification*
-
-Detects and classifies face shapes from live video or images using deep learning models and OpenCV preprocessing pipelines.
-
-![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=CC0000)
-![OpenCV](https://img.shields.io/badge/OpenCV-0d0d0d?style=flat-square&logo=opencv&logoColor=CC0000)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-0d0d0d?style=flat-square&logo=pytorch&logoColor=CC0000)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔴 AI Career Copilot
-> *Full-stack AI assistant for career navigation*
-
-An AI-powered career coaching platform with a React frontend, FastAPI backend, and LLM-driven advice engine for job seekers.
-
-![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=CC0000)
-![React](https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=CC0000)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d0d0d?style=flat-square&logo=fastapi&logoColor=CC0000)
-![LLMs](https://img.shields.io/badge/LLMs-0d0d0d?style=flat-square&logo=openai&logoColor=CC0000)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔴 Embedded Ethernet Communication
-> *High-reliability network stack for real-time systems*
-
-Implements reliable Ethernet-based communication for embedded Linux systems using POSIX sockets, multithreading, and low-latency IPC patterns.
-
-![C](https://img.shields.io/badge/C-0d0d0d?style=flat-square&logo=c&logoColor=CC0000)
-![C++](https://img.shields.io/badge/C%2B%2B-0d0d0d?style=flat-square&logo=cplusplus&logoColor=CC0000)
-![POSIX](https://img.shields.io/badge/POSIX%20Threads-0d0d0d?style=flat-square&logo=linux&logoColor=CC0000)
-![Networking](https://img.shields.io/badge/Networking-0d0d0d?style=flat-square&logo=cisco&logoColor=CC0000)
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
 ## `github_stats`
 
 <div align="center">
@@ -268,39 +198,11 @@ Implements reliable Ethernet-based communication for embedded Linux systems usin
 
 <br/>
 
-## `github_trophies`
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Krushnarath23&theme=radical&no-frame=true&no-bg=false&margin-w=6&margin-h=6&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
 ## `contribution_graph`
 
 <div align="center">
 
 [![Krushna's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Krushnarath23&bg_color=0d0d0d&color=CC0000&line=8b0000&point=ffffff&area=true&area_color=330000&hide_border=false&border_color=8b0000&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## `snake_animation`
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Krushnarath23/Krushnarath23/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
